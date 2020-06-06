@@ -1,0 +1,5 @@
+{TYPE}=[W]@{FNAME}=[Mihail]@{LNAME}=[Petrov]@{AGE}=[28]@{SEX}=[M]@{ADDRESS}=[Plovdiv]@{PHONE}=[0885555555]@{SPECIAL_PROPERTY}::{SALARY}=[420]
+{TYPE}=[W]@{FNAME}=[Mihail2]@{LNAME}=[Petrov]@{AGE}=[28]@{SEX}=[M]@{ADDRESS}=[Plovdiv]@{PHONE}=[0885555555]@{SPECIAL_PROPERTY}::{SALARY}=[420]
+{TYPE}=[M]@{FNAME}=[Maria]@{LNAME}=[Naskova]@{AGE}=[22]@{SEX}=[F]@{ADDRESS}=[Sofia]@{PHONE}=[0885555577]@{SPECIAL_PROPERTY}::{KID}=[{KFNAME}=[Nencho]@{KLNAME}=[Nakov]{KAGE}=[6]]:{KID}=[{KFNAME}=[Redolub]@{KLNAME}=[Nakov]@{KAGE}=[7]]
+{TYPE}=[M]@{FNAME}=[Maria1]@{LNAME}=[Naskova]@{AGE}=[22]@{SEX}=[F]@{ADDRESS}=[Sofia]@{PHONE}=[0885555577]@{SPECIAL_PROPERTY}::{KID}=[{KFNAME}=[Nencho]@{KLNAME}=[Nakov]@{KAGE}=[6]]
+{TYPE}=[R]@{FNAME}=[Emil]@{LNAME}=[Doychev]@{AGE}=[450]@{SEX}=[M]@{ADDRESS}=[Plovdiv]@{ PHONE}=[0885555566]@{SPECIAL_PROPERTY}
